@@ -1,1 +1,2 @@
-Mini proiect LISP
+Referat : Programare cu constrangeri
+
